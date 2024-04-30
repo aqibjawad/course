@@ -1,0 +1,30 @@
+.card-head1{
+    background-color: #5784a8;
+}
+
+.card-head2{
+    background-color: #3b7197;
+}
+
+.card-head3{
+    background-color:#5b8291;
+}
+
+.card-head4{
+    background-color:#0295a9;
+}
+
+.card-head6{
+    background-color:#41436a;
+}
+
+
+.total-head{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.total-no{
+    font-weight:normal;
+    font-size: 15px;
+}

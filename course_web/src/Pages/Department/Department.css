@@ -1,0 +1,43 @@
+/* Button styles */
+.bt{
+  background-color:  #4E76A9;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  width: 10%;
+  /* height: 100px; */
+  font-weight: bold;
+  padding: 8px 25px;
+  cursor: pointer;
+  margin: 10px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+  transition: all 0.3s ease-in-out;
+  font-size: 60px;
+  border-radius: 30px;
+  text-align: center;
+  top: 20%;
+  margin-left: 40%;
+
+  /* margin: 40px; */
+  white-space: nowrap;
+  text-decoration: none;  
+  line-height: 100px;  
+  }
+  
+  /* Button hover effect */
+  .bt:hover {
+    background-color: #ffffff;
+    color:#89CFF1;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+    width: 10%;
+   
+  }
+  
+  /* Button active effect */
+  .bt:active {
+    transform: translateY(2px);
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+    width: 10%;
+    
+  }
+  

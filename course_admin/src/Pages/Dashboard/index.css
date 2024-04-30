@@ -1,0 +1,62 @@
+.card-head1{
+    background-color:   #A255B8;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head2{
+    background-color:#F1BA37;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+.card-head3{
+    background-color: #3079D5;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head10{
+    background-color: #1FD5B5;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head4{
+    background-color:  #14BC5C;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head6{
+    background-color:  #EF6A6F;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+.total-head{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.total-no{
+    font-weight:normal;
+    font-size: 15px;
+}
+/* .background{
+    background-color: #whit;
+} */
+
+.main-body{
+    background: #f1f2f4;
+}

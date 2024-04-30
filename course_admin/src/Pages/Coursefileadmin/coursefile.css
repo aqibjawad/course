@@ -1,0 +1,34 @@
+.card-head7{
+    background-color: #EF6A6F;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head5{
+    background-color: #A255B8;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.card-head8{
+    background-color:#F1BA37;
+    border-radius: 8px;
+    box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+
+.total-head{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.total-no{
+    font-weight:normal;
+    font-size: 15px;
+}
